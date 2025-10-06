@@ -27,3 +27,16 @@ hs_err_pid*
 
 **/target
 *.swp
+
+# 图片文件
+pic/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# 项目资料和文档
+项目资料/
+学习文档/
